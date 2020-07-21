@@ -1,3 +1,5 @@
+ÖNEMLİ: Bu uygulama TEŞHİS KOYMAZ! Veri seti baz alınarak Yapay Zeka tarafından ortaya çıkartılan sonuçlar sadece tavsiye niteliğindedir.
+
 Kodu Çalıştırma Adımları:
 
 1) pip ile gerekli kütüphaneleri aşağıdaki gibi yükleyelim:
