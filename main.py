@@ -1,4 +1,5 @@
 # Bu program yapay zeka ve python kullanarak bir kişinin şeker hastası olup olmadığını tespit etmeye çalışacak.
+# ÖNEMLİ: Teşhis yapmaz! Veri seti baz alınarak Yapay Zeka tarafından ortaya çıkartılan sonuçlar sadece tavsiye niteliğindedir!
 
 
 # Kullanılacak kütüphaneleri içeri aktarım
@@ -14,6 +15,7 @@ import streamlit as st
 st.write("""
 # Şeker Hastalığı Tespiti
 Yapay Zeka ile birinin şeker hastası olup olmadığı durumunu tespit etmeye çalışır.
+TEŞHİS KOYMAZ! Veri seti baz alınarak Yapay Zeka tarafından ortaya çıkartılan sonuçlar sadece tavsiye niteliğindedir.
 """)
 # Web uygulamasında resmi açıp, görüntülemek
 img = Image.open(r'C:\Users\Arda\PycharmProjects\AIbasedWebApp4DiabetesDetection\test image.png')
